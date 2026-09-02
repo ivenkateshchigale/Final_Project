@@ -15,4 +15,5 @@ torch
 torchvision
 onnxruntime
 opencv-python
+huggingface_hub
 
